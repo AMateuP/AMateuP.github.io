@@ -1,4 +1,4 @@
-# [Conclusió](/sistemas/processos/1_Introducció)
+# [Conclusió](1_Introducció)
 
 En conclusió, la gestió de processos és una part fonamental dels sistemes informàtics, ja que influeix directament en la seva eficiència i rendiment. Una gestió de processos efectiva permet als sistemes operatius respondre de manera ràpida i eficient a les demandes dels usuaris, assegurant un ús òptim dels recursos disponibles.
 
@@ -10,4 +10,4 @@ La comunicació entre processos juga un paper essencial en els sistemes que requ
 
 En resum, una gestió de processos ben dissenyada és un element clau per aconseguir sistemes informàtics fiables i eficients. Els estudiants de microinformàtica i xarxes adquireixen habilitats essencials en aquest àmbit, essent capaços de comprendre, analitzar i optimitzar la gestió de processos per millorar el rendiment dels sistemes informàtics en els quals treballen.
 
-### [<<<](/sistemas/processos/4_Comunicació_entre_Processos)
+### [<<<](4_Comunicació_entre_Processos)

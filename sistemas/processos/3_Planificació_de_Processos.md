@@ -1,4 +1,4 @@
-# [Planificació de Processos](/sistemas/processos/1_Introducció)
+# [Planificació de Processos](1_Introducció)
 
 La planificació de processos és una peça clau en la gestió de sistemes informàtics. Consisteix en determinar l'ordre en què els processos s'executaran en el sistema operatiu. Aquesta tasca és vital per garantir un ús eficient dels recursos del sistema i proporcionar una resposta ràpida als usuaris.
 
@@ -16,5 +16,5 @@ La planificació de processos és una peça clau en la gestió de sistemes infor
 
 En aquesta tècnica, cada procés té assignada una prioritat, i el sistema executa primer aquells amb prioritats més altes. Això assegura que les tasques importants es compleixin abans, però pot provocar la negligència de processos de prioritat baixa.
 
-### [<<<](/sistemas/processos/2.2_Estats_del_Procés)
-### [>>>](/sistemas/processos/4_Comunicació_entre_Processos)
+### [<<<](2.2_Estats_del_Procés)
+### [>>>](4_Comunicació_entre_Processos)
