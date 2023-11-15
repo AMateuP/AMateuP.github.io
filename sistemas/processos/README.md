@@ -2,7 +2,7 @@
 
 ## Apartados
 
-### [1_Introducció](/sistemas/processos/1_Introducció.md)
+[1_Introducció](/sistemas/processos/1_Introducció.md)
 
 ### [2.1_Què és un Procés](/sistemas/processos/2.1_Què_és_un_Procés.md)
 
