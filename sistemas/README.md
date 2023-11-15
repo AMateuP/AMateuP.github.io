@@ -1,2 +1,2 @@
 # Apuntes
-Aqui los apuntes de [Processos](/sistemas/processos/1_Introducció.md)
+Aqui los apuntes de [Processos](/sistemas/processos/README.md)
