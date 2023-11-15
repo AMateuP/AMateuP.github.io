@@ -2,7 +2,7 @@
 Esto es un **texto en negrita** y esto es un *texto en cursiva*
 ## Dos
 1. A continuación vamos a ver [apuntes de FOL](/FOL/)
-2. A continuación vamos a ver [apuntes de Sistemas](/sistemas/processos/README.md)
+2. A continuación vamos a ver [apuntes de Sistemas](sistemas/processos/README.md)
 3. A continuación vamos a ver [apuntes de Montage](/montage/)
 4. A continuación vamos a ver [apuntes de Redes](/redes/)
 5. A continuación vamos a ver [apuntes de Ofimatica](/ofimatica/)
